@@ -1,3 +1,7 @@
+body{
+	margin: 0px;
+	background-color: #2A2A2A
+}
 header{
 	background-color: #009999;
 	height: 35%;
@@ -6,16 +10,38 @@ header{
 h1 {
 	position: relative;
   	top: 50%;
- 	 transform: translateY(-50%);
+ 	transform: translateY(-50%);
 	font-family: Helvetica, sans-serif;
 	color: #2A2A2A;
 	padding: 5px;
 	opacity: 0.6;
 	margin-left: 340px;
 	margin-right: 340px;
-
 	text-align: center;
 	border-style: solid;
 	border-spacing: 5px;
 	border-color: #2A2A2A
+}
+div{
+	position: absolute;
+  	bottom: 65%;
+}
+table{
+	width: 50%;
+	text-align: center;
+}
+img{
+	border-radius:50%;
+	float: right;
+	padding-top: 2%;
+	padding: 5%;
+	width: 20%;
+}
+p{
+	float: left;
+	padding: 5%;
+	max-width: 60%;
+	color: white;
+	font-family: Helvetica, sans-serif;
+	font-size: 120%;
 }
