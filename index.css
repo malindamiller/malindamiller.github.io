@@ -1,4 +1,5 @@
 body {
+	min-width: 600px;
 	margin: 0px;
 	background-color: #2A2A2A
 }
@@ -44,9 +45,10 @@ table{
 }
 
 p {
+
 	float: left;
 	/*padding: 5%;*/
-	margin-top: 12%;
+	margin-top: 8%;
 	margin-left: 6%;
 	max-width: 60%;
 	color: white;
@@ -86,11 +88,10 @@ h2 {
 	margin-left: 6%;
 	font-family: Helvetica, sans-serif;
 	color: white;
-
-
 }
 
 #intern {
+	min-width: 600px;
 	position: absolute;
 	padding-top: 25%;
 	color: white;
@@ -101,15 +102,13 @@ h2 {
 	padding: 3%;
 	width: 20%;
 	border-radius: 50%;
-	
-
-
 }
 #ppgDescription {
 	margin-top: 6%;
 	font-size: 120%;
 	font-family: Helvetica, sans-serif;
 }
+
 #bettispic{
 	position: absolute;
 	padding: 5%;
@@ -123,8 +122,9 @@ h2 {
 	font-size: 120%;
 	font-family: Helvetica, sans-serif;
 }
+
 #contact {
-	position: absolute;
+	position: relative;
 	margin-top: 45%;
 	background-color: #009999;
 	height: 30%;
