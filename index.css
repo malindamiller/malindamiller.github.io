@@ -1,7 +1,8 @@
 body {
-	min-width: 600px;
+	/*min-width: 600px;*/
 	margin: 0px;
-	background-color: #2A2A2A
+	background-color: #2A2A2A;
+	overflow: auto;
 }
 
 header {
@@ -53,7 +54,7 @@ p {
 	max-width: 60%;
 	color: white;
 	font-family: Helvetica, sans-serif;
-	font-size: 120%;
+	font-size: 1.2em;
 	margin-bottom: 12%;
 }
 
@@ -85,16 +86,21 @@ a:hover, a:active {
 }
 
 h2 { 
+	position: relative;
+	top: 0;
 	margin-left: 6%;
 	font-family: Helvetica, sans-serif;
 	color: white;
 }
 
 #intern {
-	min-width: 600px;
+	overflow: auto;
+	/*min-width: 600px;*/
 	position: absolute;
+	top: 40%;
 	padding-top: 25%;
 	color: white;
+	overflow: auto;
 }
 
 .internEx {
@@ -124,14 +130,19 @@ h2 {
 }
 
 #contact {
-	position: relative;
-	margin-top: 45%;
+	position:absolute;
+	top: 300%;
+	margin-bottom: 0;
 	background-color: #009999;
-	height: 30%;
+	height: 200px;
 	width: 100%;
+	padding-bottom: 0;
 }
 
+
+
 h3 {
+	margin-top: 1%;
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 	color: white;
@@ -148,5 +159,25 @@ h4{
 	border-radius: 50%;
 	padding 0;
 	margin 0;
+}
 
+#activities {
+	position: absolute;
+	top:200%;
+
+}
+.actImg {
+	width: 19%;
+	border-radius: 20%;
+	float: left;
+	padding-left: 5%;
+	padding: 3%;
+}
+.actTitle{
+	margin-top: 0;
+	margin-left: 0;
+	width: 19%;
+	float: left;
+	padding-left: 5%;
+	padding: 3%;
 }
