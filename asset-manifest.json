@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d5ef8bb.chunk.css",
+    "main.js": "/static/js/main.3b4aeff6.chunk.js",
+    "main.js.map": "/static/js/main.3b4aeff6.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.363b4d1b.chunk.js": "/static/js/2.363b4d1b.chunk.js",
+    "static/js/2.363b4d1b.chunk.js.map": "/static/js/2.363b4d1b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.671db65dd29a0d08fd10bb9947c62b75.js": "/precache-manifest.671db65dd29a0d08fd10bb9947c62b75.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9d5ef8bb.chunk.css.map": "/static/css/main.9d5ef8bb.chunk.css.map",
+    "static/media/Bettis.jpg": "/static/media/Bettis.87693c47.jpg",
+    "static/media/Malinda1.jpg": "/static/media/Malinda1.08908efc.jpg",
+    "static/media/MalindaKelleherResume.pdf": "/static/media/MalindaKelleherResume.6d1f95d1.pdf",
+    "static/media/fidelity.png": "/static/media/fidelity.b5c14d3d.png",
+    "static/media/github.png": "/static/media/github.0109fced.png",
+    "static/media/gmail.png": "/static/media/gmail.ae4e94c6.png",
+    "static/media/grad.jpg": "/static/media/grad.81f6e71c.jpg",
+    "static/media/home.css": "/static/media/havasu.86f21035.jpg",
+    "static/media/linkedin.jpg": "/static/media/linkedin.38188aaf.jpg",
+    "static/media/ppg.png": "/static/media/ppg.7ed7622b.png",
+    "static/media/spiffy.png": "/static/media/spiffy.294be50f.png"
+  }
+}
